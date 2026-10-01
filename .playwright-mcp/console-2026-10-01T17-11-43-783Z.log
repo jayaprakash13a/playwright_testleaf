@@ -1,0 +1,5 @@
+[    1319ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://cdncontent.decathlon.in/svelte/manifest.json:0
+[    1319ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://cdncontent.decathlon.in/svelte/manifest.json:0
+[   42514ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 375392446258194. @ https://connect.facebook.net/en_US/fbevents.js:203
+[   44211ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://cdncontent.decathlon.in/svelte/manifest.json:0
+[   44211ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://cdncontent.decathlon.in/svelte/manifest.json:0

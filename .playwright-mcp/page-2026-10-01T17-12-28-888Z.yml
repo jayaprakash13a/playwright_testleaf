@@ -1,0 +1,558 @@
+- generic [ref=f20e3]:
+  - banner [ref=f20e5]:
+    - generic [ref=f20e6]:
+      - link "Decathlon Home" [ref=f20e7] [cursor=pointer]:
+        - /url: ./
+      - search [ref=f20e15]:
+        - searchbox "Search for 60+ sports and 6,000+ products" [ref=f20e21]
+      - generic [ref=f20e22]:
+        - group [ref=f20e23]:
+          - link "Sign In" [ref=f20e25] [cursor=pointer]:
+            - /url: "#"
+        - link "My Store" [ref=f20e29] [cursor=pointer]:
+          - /url: ./store
+        - link "Support" [ref=f20e33] [cursor=pointer]:
+          - /url: ./support/hc
+        - link "Wishlist" [ref=f20e38] [cursor=pointer]:
+          - /url: ./wishlist
+        - link "Cart" [ref=f20e42] [cursor=pointer]:
+          - /url: ./checkout/cart
+    - generic [ref=f20e50]:
+      - navigation [ref=f20e51]:
+        - navigation [ref=f20e52]:
+          - button "All Sports" [ref=f20e53] [cursor=pointer]
+          - button "Men" [ref=f20e54] [cursor=pointer]
+          - button "Women" [ref=f20e55] [cursor=pointer]
+          - button "Kids" [ref=f20e56] [cursor=pointer]
+      - button "Select delivery location" [ref=f20e57]
+  - main [ref=f20e61]:
+    - generic [ref=f20e64]:
+      - generic [ref=f20e65]:
+        - generic [ref=f20e66]:
+          - generic [ref=f20e67]: Filters (1)
+          - button "Clear all" [ref=f20e68] [cursor=pointer]
+        - complementary [ref=f20e71]:
+          - generic [ref=f20e72]:
+            - button "Price" [expanded] [ref=f20e73] [cursor=pointer]
+            - generic [ref=f20e78]:
+              - generic [ref=f20e79]: From ₹0 to ₹0
+              - generic [ref=f20e80]:
+                - generic [ref=f20e83] [cursor=pointer]
+                - generic [ref=f20e86] [cursor=pointer]
+              - generic [ref=f20e89]:
+                - generic [ref=f20e90]:
+                  - generic [ref=f20e91]: Minimum
+                  - textbox "Minimum" [ref=f20e92]:
+                    - /placeholder: ₹0
+                    - text: ₹0
+                - generic [ref=f20e93]:
+                  - generic [ref=f20e94]: Maximum
+                  - textbox "Maximum" [ref=f20e95]:
+                    - /placeholder: ₹0
+                    - text: ₹0
+          - generic [ref=f20e96]:
+            - button "Gender" [ref=f20e98] [cursor=pointer]
+            - button "Category" [ref=f20e103] [cursor=pointer]
+            - button "Size" [ref=f20e108] [cursor=pointer]
+            - button "Sport" [ref=f20e113] [cursor=pointer]
+            - button "Brand" [ref=f20e118] [cursor=pointer]
+            - button "Color" [ref=f20e123] [cursor=pointer]
+            - button "Discount" [ref=f20e128] [cursor=pointer]
+            - button "Rating" [ref=f20e133] [cursor=pointer]
+            - button "More Filters" [ref=f20e138] [cursor=pointer]
+            - button "Availability" [ref=f20e143] [cursor=pointer]
+      - generic [ref=f20e148]:
+        - generic [ref=f20e153]:
+          - generic [ref=f20e154]: Showing 584 results for Shoes
+          - button "Most relevant" [ref=f20e157] [cursor=pointer]
+        - generic [ref=f20e163]:
+          - generic [ref=f20e164]: Exclude out of stock
+          - button "Remove Exclude out of stock" [ref=f20e165] [cursor=pointer]
+        - generic [ref=f20e168]:
+          - link "Kiprun Men's running shoes, Kiprun Kipcore black and white" [ref=f20e170] [cursor=pointer]:
+            - /url: /p/8873071/men-s-running-shoes-kiprun-kipcore-black-and-white
+            - generic [ref=f20e172]:
+              - img "Men's running shoes, Kiprun Kipcore black and white" [ref=f20e175]
+              - generic [ref=f20e176]:
+                - generic [ref=f20e177]:
+                  - generic [ref=f20e178]: Kiprun Men's running shoes, Kiprun Kipcore black and white
+                  - generic [ref=f20e179]:
+                    - generic [ref=f20e180]: 5.4k
+                    - generic [ref=f20e193]:
+                      - generic [ref=f20e194]:
+                        - generic "#252629" [ref=f20e195]
+                        - generic "#77C4CA" [ref=f20e196]
+                        - generic "#2C2F40" [ref=f20e197]
+                      - generic [ref=f20e198]: "+3"
+                  - generic [ref=f20e200]:
+                    - generic [ref=f20e201]: ₹4,999
+                    - generic [ref=f20e203]: MRP ₹6,499
+                - generic [ref=f20e207]:
+                  - button "Add to wishlist" [ref=f20e208]
+                  - button "Add to cart" [ref=f20e211]
+          - link "Decathlon Men Running Superior Grip Cushion Shoes, Jogflow 100 - Black" [ref=f20e213] [cursor=pointer]:
+            - /url: /p/8733464/men-running-shoes-superior-grip-cushioned-upto-10km-week-jogflow100-black
+            - generic [ref=f20e215]:
+              - img "Men Running Superior Grip Cushion Shoes, Jogflow 100 - Black" [ref=f20e218]
+              - generic [ref=f20e219]:
+                - generic [ref=f20e220]:
+                  - generic [ref=f20e221]: Decathlon Men Running Superior Grip Cushion Shoes, Jogflow 100 - Black
+                  - generic [ref=f20e222]:
+                    - generic [ref=f20e223]: 17.0k
+                    - generic [ref=f20e236]:
+                      - generic [ref=f20e237]:
+                        - generic "#2C2B2E" [ref=f20e238]
+                        - generic "#2C2F40" [ref=f20e239]
+                        - generic "#939989" [ref=f20e240]
+                      - generic [ref=f20e241]: "+7"
+                  - generic [ref=f20e243]:
+                    - generic [ref=f20e244]: ₹1,599
+                    - generic [ref=f20e246]: MRP ₹2,999
+                - generic [ref=f20e250]:
+                  - button "Add to wishlist" [ref=f20e251]
+                  - button "Add to cart" [ref=f20e254]
+          - link "Kipsta Men Football Shoes Agility 100 for Turf Black" [ref=f20e256] [cursor=pointer]:
+            - /url: /p/8398029/men-football-shoes-agility-100-for-turf-black
+            - generic [ref=f20e258]:
+              - img "Men Football Shoes Agility 100 for Turf Black" [ref=f20e261]
+              - generic [ref=f20e262]:
+                - generic [ref=f20e263]:
+                  - generic [ref=f20e264]: Kipsta Men Football Shoes Agility 100 for Turf Black
+                  - generic [ref=f20e265]:
+                    - generic [ref=f20e266]: 2.8k
+                    - generic "#2C2B2E" [ref=f20e281]
+                  - generic [ref=f20e283]:
+                    - generic [ref=f20e284]: ₹999
+                    - generic [ref=f20e286]: MRP ₹1,699
+                - generic [ref=f20e290]:
+                  - button "Add to wishlist" [ref=f20e291]
+                  - button "Add to cart" [ref=f20e294]
+          - link "Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Black" [ref=f20e296] [cursor=pointer]:
+            - /url: /p/8553119/men-mid-ankle-waterproof-hiking-shoes-with-non-slip-outsole-black-mh100
+            - generic [ref=f20e298]:
+              - img "Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Black" [ref=f20e301]
+              - generic [ref=f20e302]:
+                - generic [ref=f20e303]:
+                  - generic [ref=f20e304]: Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Black
+                  - generic [ref=f20e305]:
+                    - generic [ref=f20e306]: 6.5k
+                    - generic [ref=f20e320]:
+                      - generic "#252629" [ref=f20e321]
+                      - generic "#46483A" [ref=f20e322]
+                  - generic [ref=f20e324]:
+                    - generic [ref=f20e325]: ₹4,999
+                    - generic [ref=f20e327]: MRP ₹7,999
+                - generic [ref=f20e331]:
+                  - button "Add to wishlist" [ref=f20e332]
+                  - button "Add to cart" [ref=f20e335]
+          - link "Quechua Men Hiking Shoes - Low Ankle Trail Walking NH50 - Black" [ref=f20e337] [cursor=pointer]:
+            - /url: /p/8844095/men-s-hiking-boots-nh50-black
+            - generic [ref=f20e339]:
+              - generic [ref=f20e341]:
+                - img "drop" [ref=f20e343]
+                - img "Men Hiking Shoes - Low Ankle Trail Walking NH50 - Black" [ref=f20e344]
+              - generic [ref=f20e345]:
+                - generic [ref=f20e346]:
+                  - generic [ref=f20e347]: Quechua Men Hiking Shoes - Low Ankle Trail Walking NH50 - Black
+                  - generic [ref=f20e348]:
+                    - generic [ref=f20e349]: 9.0k
+                    - generic [ref=f20e363]:
+                      - generic "#2C2B2E" [ref=f20e364]
+                      - generic "#484F4F" [ref=f20e365]
+                  - generic [ref=f20e367]:
+                    - generic [ref=f20e368]:
+                      - generic [ref=f20e369]: ₹999
+                      - generic [ref=f20e370]: 60% off
+                    - generic [ref=f20e371]: MRP ₹2,499
+                - generic [ref=f20e375]:
+                  - button "Add to wishlist" [ref=f20e376]
+                  - button "Add to cart" [ref=f20e379]
+          - link "Quechua Men Hiking Shoes - Low Ankle Trail Walking NH50 - Green" [ref=f20e381] [cursor=pointer]:
+            - /url: /p/8844091/men-s-hiking-boots-nh50-green
+            - generic [ref=f20e383]:
+              - generic [ref=f20e385]:
+                - img "onlyonline" [ref=f20e387]
+                - img "Men Hiking Shoes - Low Ankle Trail Walking NH50 - Green" [ref=f20e388]
+              - generic [ref=f20e389]:
+                - generic [ref=f20e390]:
+                  - generic [ref=f20e391]: Quechua Men Hiking Shoes - Low Ankle Trail Walking NH50 - Green
+                  - generic [ref=f20e392]:
+                    - generic [ref=f20e393]: 9.0k
+                    - generic [ref=f20e407]:
+                      - generic "#484F4F" [ref=f20e408]
+                      - generic "#2C2B2E" [ref=f20e409]
+                  - generic [ref=f20e411]:
+                    - generic [ref=f20e412]: ₹999
+                    - generic [ref=f20e414]: MRP ₹2,999
+                - generic [ref=f20e418]:
+                  - button "Add to wishlist" [ref=f20e419]
+                  - button "Add to cart" [ref=f20e422]
+          - link "Kiprun Men Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Grey/Green" [ref=f20e424] [cursor=pointer]:
+            - /url: /p/8958672/men-s-versatile-road-running-shoes-kiprun-kipcore-premium-grey-green
+            - generic [ref=f20e426]:
+              - img "Men Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Grey/Green" [ref=f20e429]
+              - generic [ref=f20e430]:
+                - generic [ref=f20e431]:
+                  - generic [ref=f20e432]: Kiprun Men Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Grey/Green
+                  - generic [ref=f20e433]:
+                    - generic [ref=f20e434]: "694"
+                    - generic [ref=f20e448]:
+                      - generic "#A7AEB4" [ref=f20e449]
+                      - generic "#24404E" [ref=f20e450]
+                  - generic [ref=f20e452]:
+                    - generic [ref=f20e453]: ₹5,999
+                    - generic [ref=f20e455]: MRP ₹7,799
+                - generic [ref=f20e459]:
+                  - button "Add to wishlist" [ref=f20e460]
+                  - button "Add to cart" [ref=f20e463]
+          - link "Decathlon Men Running Shoes Everyday Shoes with Cushioning, Ekiden One - Grey" [ref=f20e465] [cursor=pointer]:
+            - /url: /p/8351755/men-running-shoes-everyday-shoes-with-cushioning-ekiden-one-grey
+            - generic [ref=f20e467]:
+              - img "Men Running Shoes Everyday Shoes with Cushioning, Ekiden One - Grey" [ref=f20e470]
+              - generic [ref=f20e471]:
+                - generic [ref=f20e472]:
+                  - generic [ref=f20e473]: Decathlon Men Running Shoes Everyday Shoes with Cushioning, Ekiden One - Grey
+                  - generic [ref=f20e474]:
+                    - generic [ref=f20e475]: 9.8k
+                    - generic [ref=f20e489]:
+                      - generic "#8F9495" [ref=f20e490]
+                      - generic "#38465B" [ref=f20e491]
+                  - generic [ref=f20e493]:
+                    - generic [ref=f20e494]: ₹999
+                    - generic [ref=f20e496]: MRP ₹1,199
+                - generic [ref=f20e500]:
+                  - button "Add to wishlist" [ref=f20e501]
+                  - button "Add to cart" [ref=f20e504]
+          - link "Decathlon Men Running Grip Foam Cushion Shoes, Jogflow 190.1 - Grey" [ref=f20e506] [cursor=pointer]:
+            - /url: /p/8913901/men-running-shoes-superior-grip-cushioned-upto-20km-week-jogflow-190-1-grey
+            - generic [ref=f20e508]:
+              - img "Men Running Grip Foam Cushion Shoes, Jogflow 190.1 - Grey" [ref=f20e511]
+              - generic [ref=f20e512]:
+                - generic [ref=f20e513]:
+                  - generic [ref=f20e514]: Decathlon Men Running Grip Foam Cushion Shoes, Jogflow 190.1 - Grey
+                  - generic [ref=f20e515]:
+                    - generic [ref=f20e516]: 9.7k
+                    - generic [ref=f20e529]:
+                      - generic [ref=f20e530]:
+                        - generic "#A7AEB4" [ref=f20e531]
+                        - generic "#2C2B2E" [ref=f20e532]
+                        - generic "#3D3B3F" [ref=f20e533]
+                      - generic [ref=f20e534]: "+10"
+                  - generic [ref=f20e536]:
+                    - generic [ref=f20e537]: ₹2,499
+                    - generic [ref=f20e539]: MRP ₹3,249
+                - generic [ref=f20e543]:
+                  - button "Add to wishlist" [ref=f20e544]
+                  - button "Add to cart" [ref=f20e547]
+          - link "Kiprun Women Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Blue/Pink" [ref=f20e549] [cursor=pointer]:
+            - /url: /p/8927043/women-s-versatile-road-running-shoes-kiprun-kipcore-premium-blue-pink
+            - generic [ref=f20e551]:
+              - generic [ref=f20e553]:
+                - img "new" [ref=f20e555]
+                - img "Women Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Blue/Pink" [ref=f20e556]
+              - generic [ref=f20e557]:
+                - generic [ref=f20e558]:
+                  - generic [ref=f20e559]: Kiprun Women Road Running Versatile Cushion Shoes, Kiprun Kipcore Premium - Blue/Pink
+                  - generic [ref=f20e560]:
+                    - generic [ref=f20e561]: "419"
+                    - generic [ref=f20e575]:
+                      - generic "#CBD6E0" [ref=f20e576]
+                      - generic "#24404E" [ref=f20e577]
+                  - generic [ref=f20e579]:
+                    - generic [ref=f20e580]: ₹5,999
+                    - generic [ref=f20e582]: MRP ₹7,799
+                - generic [ref=f20e586]:
+                  - button "Add to wishlist" [ref=f20e587]
+                  - button "Add to cart" [ref=f20e590]
+          - link "Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Grey" [ref=f20e592] [cursor=pointer]:
+            - /url: /p/8618769/men-waterproof-hiking-shoes-mid-ankle-with-cushion-comfort-grey-mh500
+            - generic [ref=f20e594]:
+              - img "Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Grey" [ref=f20e597]
+              - generic [ref=f20e598]:
+                - generic [ref=f20e599]:
+                  - generic [ref=f20e600]: Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Grey
+                  - generic [ref=f20e601]:
+                    - generic [ref=f20e602]: 6.2k
+                    - generic [ref=f20e616]:
+                      - generic "#717173" [ref=f20e617]
+                      - generic "#6C523E" [ref=f20e618]
+                  - generic [ref=f20e620]:
+                    - generic [ref=f20e621]: ₹6,999
+                    - generic [ref=f20e623]: MRP ₹10,999
+                - generic [ref=f20e627]:
+                  - button "Add to wishlist" [ref=f20e628]
+                  - button "Add to cart" [ref=f20e631]
+          - link "Quechua Men Hiking Shoes - Mid Ankle NH100 Black" [ref=f20e633] [cursor=pointer]:
+            - /url: /p/8756701/men-mid-ankle-hiking-shoes-black-nh100
+            - generic [ref=f20e635]:
+              - img "Men Hiking Shoes - Mid Ankle NH100 Black" [ref=f20e638]
+              - generic [ref=f20e639]:
+                - generic [ref=f20e640]:
+                  - generic [ref=f20e641]: Quechua Men Hiking Shoes - Mid Ankle NH100 Black
+                  - generic [ref=f20e642]:
+                    - generic [ref=f20e643]: 3.4k
+                    - generic "#2C2B2E" [ref=f20e658]
+                  - generic [ref=f20e660]:
+                    - generic [ref=f20e661]: ₹1,999
+                    - generic [ref=f20e663]: MRP ₹2,999
+                - generic [ref=f20e667]:
+                  - button "Add to wishlist" [ref=f20e668]
+                  - button "Add to cart" [ref=f20e671]
+          - link "Decathlon Men Walking Shoes with Breathable Mesh, Cushioning, PW 100 - Grey" [ref=f20e673] [cursor=pointer]:
+            - /url: /p/8486177/men-walking-shoes-with-breathable-mesh-cushioning-pw-100-grey
+            - generic [ref=f20e675]:
+              - img "Men Walking Shoes with Breathable Mesh, Cushioning, PW 100 - Grey" [ref=f20e678]
+              - generic [ref=f20e679]:
+                - generic [ref=f20e680]:
+                  - generic [ref=f20e681]: Decathlon Men Walking Shoes with Breathable Mesh, Cushioning, PW 100 - Grey
+                  - generic [ref=f20e682]:
+                    - generic [ref=f20e683]: 4.8k
+                    - generic [ref=f20e697]:
+                      - generic "#6C7177" [ref=f20e698]
+                      - generic "#3D3B3F" [ref=f20e699]
+                  - generic [ref=f20e701]:
+                    - generic [ref=f20e702]: ₹699
+                    - generic [ref=f20e704]: MRP ₹999
+                - generic [ref=f20e708]:
+                  - button "Add to wishlist" [ref=f20e709]
+                  - button "Add to cart" [ref=f20e712]
+          - link "Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Brown" [ref=f20e714] [cursor=pointer]:
+            - /url: /p/8618767/men-waterproof-hiking-shoes-mid-ankle-with-cushion-comfort-brown-mh500
+            - generic [ref=f20e716]:
+              - img "Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Brown" [ref=f20e719]
+              - generic [ref=f20e720]:
+                - generic [ref=f20e721]:
+                  - generic [ref=f20e722]: Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle Cushion Comfort With 5mm Grip Studs MH500 - Brown
+                  - generic [ref=f20e723]:
+                    - generic [ref=f20e724]: 6.2k
+                    - generic [ref=f20e738]:
+                      - generic "#6C523E" [ref=f20e739]
+                      - generic "#717173" [ref=f20e740]
+                  - generic [ref=f20e742]:
+                    - generic [ref=f20e743]: ₹6,999
+                    - generic [ref=f20e745]: MRP ₹10,999
+                - generic [ref=f20e749]:
+                  - button "Add to wishlist" [ref=f20e750]
+                  - button "Add to cart" [ref=f20e753]
+          - link "Quechua Women Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Dark Green" [ref=f20e755] [cursor=pointer]:
+            - /url: /p/8851131/women-s-waterproof-hiking-boots-mh100-green-and-grey
+            - generic [ref=f20e757]:
+              - img "Women Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Dark Green" [ref=f20e760]
+              - generic [ref=f20e761]:
+                - generic [ref=f20e762]:
+                  - generic [ref=f20e763]: Quechua Women Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Dark Green
+                  - generic [ref=f20e764]:
+                    - generic [ref=f20e765]: 2.2k
+                    - generic [ref=f20e779]:
+                      - generic "#586B6E" [ref=f20e780]
+                      - generic "#5C6269" [ref=f20e781]
+                  - generic [ref=f20e783]:
+                    - generic [ref=f20e784]: ₹4,999
+                    - generic [ref=f20e786]: MRP ₹7,999
+                - generic [ref=f20e790]:
+                  - button "Add to wishlist" [ref=f20e791]
+                  - button "Add to cart" [ref=f20e794]
+          - link "Quechua Women Hiking/Trekking NH100 Shoes - Mid Ankle Waterproof With 4mm Grip Studs - Blue" [ref=f20e796] [cursor=pointer]:
+            - /url: /p/8493370/women-water-resistant-mid-ankle-hiking-shoes-blue-grey-nh100
+            - generic [ref=f20e798]:
+              - img "Women Hiking/Trekking NH100 Shoes - Mid Ankle Waterproof With 4mm Grip Studs - Blue" [ref=f20e801]
+              - generic [ref=f20e802]:
+                - generic [ref=f20e803]:
+                  - generic [ref=f20e804]: Quechua Women Hiking/Trekking NH100 Shoes - Mid Ankle Waterproof With 4mm Grip Studs - Blue
+                  - generic [ref=f20e805]:
+                    - generic [ref=f20e806]: 2.3k
+                    - generic [ref=f20e820]:
+                      - generic "#2D2E49" [ref=f20e821]
+                      - generic "#5B5D58" [ref=f20e822]
+                  - generic [ref=f20e824]:
+                    - generic [ref=f20e825]: ₹3,599
+                    - generic [ref=f20e827]: MRP ₹4,999
+                - generic [ref=f20e831]:
+                  - button "Add to wishlist" [ref=f20e832]
+                  - button "Add to cart" [ref=f20e835]
+          - link "Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Khaki" [ref=f20e837] [cursor=pointer]:
+            - /url: /p/8553121/men-mid-ankle-waterproof-hiking-shoes-with-non-slip-outsole-khaki-mh100
+            - generic [ref=f20e839]:
+              - img "Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Khaki" [ref=f20e842]
+              - generic [ref=f20e843]:
+                - generic [ref=f20e844]:
+                  - generic [ref=f20e845]: Quechua Men Hiking/Trekking Waterproof Shoes - Mid Ankle With 4mm Grip Studs MH100 - Khaki
+                  - generic [ref=f20e846]:
+                    - generic [ref=f20e847]: 6.5k
+                    - generic [ref=f20e861]:
+                      - generic "#46483A" [ref=f20e862]
+                      - generic "#252629" [ref=f20e863]
+                  - generic [ref=f20e865]:
+                    - generic [ref=f20e866]: ₹4,999
+                    - generic [ref=f20e868]: MRP ₹7,999
+                - generic [ref=f20e872]:
+                  - button "Add to wishlist" [ref=f20e873]
+                  - button "Add to cart" [ref=f20e876]
+          - link "Kuikma MEN'S BADMINTON SHOES BS PERFORM 990 PRO NAVY" [ref=f20e878] [cursor=pointer]:
+            - /url: /p/8736641/men-s-badminton-shoes-bs-perform-990-pro-navy
+            - generic [ref=f20e880]:
+              - img "MEN'S BADMINTON SHOES BS PERFORM 990 PRO NAVY" [ref=f20e883]
+              - generic [ref=f20e884]:
+                - generic [ref=f20e885]:
+                  - generic [ref=f20e886]: Kuikma MEN'S BADMINTON SHOES BS PERFORM 990 PRO NAVY
+                  - generic [ref=f20e887]:
+                    - generic [ref=f20e888]: "223"
+                    - generic "#2C2D3C" [ref=f20e903]
+                  - generic [ref=f20e905]:
+                    - generic [ref=f20e906]: ₹7,499
+                    - generic [ref=f20e908]: MRP ₹9,749
+                - generic [ref=f20e912]:
+                  - button "Add to wishlist" [ref=f20e913]
+                  - button "Add to cart" [ref=f20e916]
+          - link "Quechua Men Hiking Waterproof Shoes NH100 Dark Grey" [ref=f20e918] [cursor=pointer]:
+            - /url: /p/8871780/men-s-waterproof-hiking-boots-nh100-wp-grey
+            - generic [ref=f20e920]:
+              - img "Men Hiking Waterproof Shoes NH100 Dark Grey" [ref=f20e923]
+              - generic [ref=f20e924]:
+                - generic [ref=f20e925]:
+                  - generic [ref=f20e926]: Quechua Men Hiking Waterproof Shoes NH100 Dark Grey
+                  - generic [ref=f20e927]:
+                    - generic [ref=f20e928]: 2.7k
+                    - generic [ref=f20e942]:
+                      - generic "#3D3B3F" [ref=f20e943]
+                      - generic "#5B5D58" [ref=f20e944]
+                  - generic [ref=f20e946]:
+                    - generic [ref=f20e947]: ₹2,999
+                    - generic [ref=f20e949]: MRP ₹5,999
+                - generic [ref=f20e953]:
+                  - button "Add to wishlist" [ref=f20e954]
+                  - button "Add to cart" [ref=f20e957]
+          - link "Decathlon Sports backpack with shoe compartment 17L- Cypress green" [ref=f20e959] [cursor=pointer]:
+            - /url: /p/8873327/sports-backpack-with-shoe-compartment-17l-cypress-green
+            - generic [ref=f20e961]:
+              - generic [ref=f20e963]:
+                - img "drop" [ref=f20e965]
+                - img "Sports backpack with shoe compartment 17L- Cypress green" [ref=f20e966]
+              - generic [ref=f20e967]:
+                - generic [ref=f20e968]:
+                  - generic [ref=f20e969]: Decathlon Sports backpack with shoe compartment 17L- Cypress green
+                  - generic [ref=f20e970]:
+                    - generic [ref=f20e971]: 3.4k
+                    - generic [ref=f20e984]:
+                      - generic [ref=f20e985]:
+                        - generic "#1F4B3D" [ref=f20e986]
+                        - generic "#D5C6D7" [ref=f20e987]
+                        - generic "#506375" [ref=f20e988]
+                      - generic [ref=f20e989]: "+3"
+                  - generic [ref=f20e991]:
+                    - generic [ref=f20e992]:
+                      - generic [ref=f20e993]: ₹399
+                      - generic [ref=f20e994]: 60% off
+                    - generic [ref=f20e995]: MRP ₹999
+                - generic [ref=f20e999]:
+                  - button "Add to wishlist" [ref=f20e1000]
+                  - button "Add to cart" [ref=f20e1003]
+  - contentinfo [ref=f20e1004]:
+    - generic [ref=f20e1005]:
+      - generic [ref=f20e1007]:
+        - link "Easy Returns*" [ref=f20e1008] [cursor=pointer]:
+          - /url: /shop/decathlon-return-policy
+          - img "Decathlon Return Policy" [ref=f20e1009]
+        - link "Collect in-store" [ref=f20e1011] [cursor=pointer]:
+          - /url: /shop/decathlon-return-policy
+          - img "Decathlon Collect in-store" [ref=f20e1012]
+        - link "Express Delivery *" [ref=f20e1014] [cursor=pointer]:
+          - /url: /c/quick-delivery-510335
+          - img "Express Delivery" [ref=f20e1015]
+        - generic "1 Mn+ happy customers" [ref=f20e1017]:
+          - img "Decathlon Delivery" [ref=f20e1018]
+        - link "We buy back" [ref=f20e1020] [cursor=pointer]:
+          - /url: /shop/decathlon-return-policy
+          - img "Decathlon We buy back" [ref=f20e1021]
+      - generic [ref=f20e1023]:
+        - generic [ref=f20e1024]:
+          - button "Download the app" [ref=f20e1025] [cursor=pointer]
+          - button "Become a member" [ref=f20e1029] [cursor=pointer]
+          - generic [ref=f20e1034]:
+            - link "Facebook" [ref=f20e1035] [cursor=pointer]:
+              - /url: https://www.facebook.com/decathlonindia
+            - link "X" [ref=f20e1038] [cursor=pointer]:
+              - /url: https://x.com/Decathlon_ind
+            - link "YouTube" [ref=f20e1041] [cursor=pointer]:
+              - /url: https://www.youtube.com/@decathlon_india
+            - link "Instagram" [ref=f20e1044] [cursor=pointer]:
+              - /url: https://www.instagram.com/decathlonsportsindia
+        - generic [ref=f20e1049]:
+          - generic [ref=f20e1050]:
+            - generic [ref=f20e1051]: SERVICES
+            - list [ref=f20e1052]:
+              - listitem [ref=f20e1053]:
+                - link "Decathlon for Schools" [ref=f20e1054] [cursor=pointer]:
+                  - /url: https://b2b.decathlon.in/shop/decathlon-for-schools
+              - listitem [ref=f20e1055]:
+                - link "Decathlon for Corporates" [ref=f20e1056] [cursor=pointer]:
+                  - /url: https://b2b.decathlon.in/shop/decathlon-for-corporates
+              - listitem [ref=f20e1057]:
+                - link "Decathlon for Sport Clubs" [ref=f20e1058] [cursor=pointer]:
+                  - /url: https://b2b.decathlon.in/shop/decathlon-for-sports-clubs
+              - listitem [ref=f20e1059]:
+                - link "Giftcard" [ref=f20e1060] [cursor=pointer]:
+                  - /url: /shop/Gift-Cards
+              - listitem [ref=f20e1061]:
+                - link "Affiliate Program" [ref=f20e1062] [cursor=pointer]:
+                  - /url: /shop/decathlon-affiliate-program
+              - listitem [ref=f20e1063]:
+                - link "Playo Summer" [ref=f20e1064] [cursor=pointer]:
+                  - /url: https://playo.co/decathlon-summer-camp
+              - listitem [ref=f20e1065]:
+                - link "Second life" [ref=f20e1066] [cursor=pointer]:
+                  - /url: /shop/Second-Life
+              - listitem [ref=f20e1067]:
+                - link "Buy back" [ref=f20e1068] [cursor=pointer]:
+                  - /url: /shop/Buy-Back
+              - listitem [ref=f20e1069]:
+                - link "Installation & assembly" [ref=f20e1070] [cursor=pointer]:
+                  - /url: /shop/Decathlon-services
+          - generic [ref=f20e1071]:
+            - generic [ref=f20e1072]: HELP
+            - list [ref=f20e1073]:
+              - listitem [ref=f20e1074]:
+                - link "Find a store" [ref=f20e1075] [cursor=pointer]:
+                  - /url: https://www.decathlon.in/store
+              - listitem [ref=f20e1076]:
+                - link "Return Policy" [ref=f20e1077] [cursor=pointer]:
+                  - /url: /shop/decathlon-return-policy
+              - listitem [ref=f20e1078]:
+                - link "Shipping policy" [ref=f20e1079] [cursor=pointer]:
+                  - /url: /shop/shipping-policy
+              - listitem [ref=f20e1080]:
+                - link "Sitemap" [ref=f20e1081] [cursor=pointer]:
+                  - /url: /sitemap
+              - listitem [ref=f20e1082]:
+                - link "Product recall" [ref=f20e1083] [cursor=pointer]:
+                  - /url: /shop/recall-notice
+          - generic [ref=f20e1084]:
+            - generic [ref=f20e1085]: ABOUT
+            - list [ref=f20e1086]:
+              - listitem [ref=f20e1087]:
+                - link "About us" [ref=f20e1088] [cursor=pointer]:
+                  - /url: https://www.decathlon-united.media/
+              - listitem [ref=f20e1089]:
+                - link "Made In India" [ref=f20e1090] [cursor=pointer]:
+                  - /url: /shop/decathlon-india-products?icm=verticalmenu&icn=madeinindia
+              - listitem [ref=f20e1091]:
+                - link "Social & CSR Initiatives" [ref=f20e1092] [cursor=pointer]:
+                  - /url: /shop/Social-CSR-initiatives
+              - listitem [ref=f20e1093]:
+                - link "Careers" [ref=f20e1094] [cursor=pointer]:
+                  - /url: https://joinus.decathlon.in/en
+              - listitem [ref=f20e1095]:
+                - link "Blog" [ref=f20e1096] [cursor=pointer]:
+                  - /url: https://www.decathlon.in/blog/homepage
+              - listitem [ref=f20e1097]:
+                - link "EPR Registration Details" [ref=f20e1098] [cursor=pointer]:
+                  - /url: /page/epr-dc
+      - generic [ref=f20e1099]:
+        - generic [ref=f20e1107]:
+          - link [ref=f20e1108] [cursor=pointer]:
+            - /url: /page/decathlon-terms-and-condition
+          - link [ref=f20e1112] [cursor=pointer]:
+            - /url: /page/decathlon-privacy-policy
+        - button "Select country" [ref=f20e1118] [cursor=pointer]:
+          - generic [ref=f20e1126]: India
+      - generic [ref=f20e1129]: © 2026 Decathlon Sports India Pvt Ltd. All rights reserved.
